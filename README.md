@@ -1,5 +1,5 @@
 # 👋🏻 About Me :
-chess ♟️ and manga ⛩️ enjoyer <br><br>back-end developer 👨‍💻⚙️
+back-end developer 👨‍💻⚙️
 
 # 💻 Tech Stack :
 
